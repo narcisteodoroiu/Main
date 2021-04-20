@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @narcisteodoroiu
+- 👀 I’m interested in Data Science and AI.
